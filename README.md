@@ -1,7 +1,7 @@
 <!-- presentation -->
-<h1 align="right">
+<h1 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Erick+Eden+Acevedo+Cota;Software+developer;everything+starts;with+an+idea;Hello+world">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Erick+Eden+Acevedo+Cota;Software+developer;everything+starts;with+an+idea;Hello+world&font=Fira%20Code&center=true&width=380&height=50">
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Erick+Eden+Acevedo+Cota;Software+developer;everything+starts;with+an+idea;Hello+world&font=Fira%20Code&center=true&width=380&height=50"> -->
 
 </h1>
