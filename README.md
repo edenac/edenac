@@ -3,8 +3,9 @@
 <h3 align="center">A passionate developer</h3>
 
 <!-- Views and talking -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=edenac&label=Profile%20views&color=0e75b6&style=flat" alt="edenac" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edenac&no-frame=true&theme=gruvbox&no-bg=true" alt="edenac"/></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=edenac&label=Profile%20views&color=0e75b6&style=flat" alt="edenac" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edenac&no-frame=true&theme=juicyfresh&no-bg=true" alt="edenac"/></a> </p>
+
 
 - 🌱 I’m currently learning **i never stop to study**
 
