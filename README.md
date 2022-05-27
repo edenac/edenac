@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Erick Acevedo</h1>
 <h3 align="center">A passionate developer</h3>
 
-<!-- Views and talking -->
+<!-- Views, truphy's and talking -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edenac&label=Profile%20views&color=0e75b6&style=flat" alt="edenac" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edenac&no-frame=true&theme=juicyfresh&no-bg=true" alt="edenac"/></a> </p>
 
-
+---
 - 🌱 I’m currently learning **i never stop to study**
 
 - 💬 Ask me about **you doubt**
@@ -21,8 +21,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/devedenac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devedenac" height="30" width="40" /></a>
 </p>
-
-<!-- <h3 align="left">Languages and Tools:</h3> -->
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -41,7 +39,7 @@
 
 <br />
 <br />
-
+---
 <!-- graphs -->
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=edenac&&theme=rogue)](https://github.com/edenac)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edenac&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="edenac" /></p>
