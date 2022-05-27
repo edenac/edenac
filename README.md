@@ -1,13 +1,21 @@
-<!-- Presentation -->
-<h1 align="center">Erick Acevedo</h1>
-<h3 align="center">Software Developer</h3>
+<!-- presentation -->
+<h1 align="center">
+
+<img src=" https://readme-typing-svg.herokuapp.com/?lines=Erick+Eden+Acevedo+Cota;Software+developer;everything+starts;with+an+idea;Hello;world&font=Fira%20Code&center=true&width=380&height=50">
+
+</h1>
+
+<!-- <h1 align="center">Erick Acevedo</h1> -->
+<!-- <h3 align="center">Software Developer</h3> -->
 
 <!-- Views, truphy's and talking -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=edenac&label=Profile%20views&color=0e75b6&style=flat" alt="edenac" /> </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edenac&no-frame=true&theme=juicyfresh&no-bg=true" alt="edenac"/></a> </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edenac&&theme=tokyonight" alt="edenac" /></p>
 
-<h2 align="center">Hi 👋</h2>
+<h2 align="center">Hi
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
 
 - 🌱 I’m currently learning **i never stop to study**
 
