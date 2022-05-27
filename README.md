@@ -39,7 +39,9 @@
 
 <br />
 <br />
----
+
+***
+
 <!-- graphs -->
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=edenac&&theme=rogue)](https://github.com/edenac)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edenac&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="edenac" /></p>
