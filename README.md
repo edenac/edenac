@@ -8,13 +8,14 @@
 
 ---
 <h2 align="center">Hi 👋</h2>
+
 - 🌱 I’m currently learning **i never stop to study**
 
-- 💬 Ask me about **you doubt**
+- 💬 Ask me about **any doubt that you have**
 
 - 📫 How to reach me **edenac.dev@gmail.com**
 
-- ⚡ Fun fact **i like to play chess**
+- ⚡Hobbie **i like to play chess**
 
 <!-- Connect with me, Languages and Tools -->
 
