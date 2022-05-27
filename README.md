@@ -42,11 +42,12 @@
 <br />
 <br />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edenac&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="edenac" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edenac&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="edenac" /></p>
 
 ---
 
 <!-- graphs -->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edenac&show_icons=true&locale=en&theme=tokyonight" alt="edenac" /></p>
+
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=edenac&&theme=rogue)](https://github.com/edenac)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edenac&&theme=tokyonight" alt="edenac" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edenac&&theme=tokyonight" alt="edenac" /></p>
