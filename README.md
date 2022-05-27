@@ -1,10 +1,11 @@
 <!-- presentation -->
-<h1 align="center">
+<!-- <h1 align="center"> -->
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Erick+Eden+Acevedo+Cota;Software+developer;everything+starts;with+an+idea;Hello+world&font=Fira%20Code&center=true&width=380&height=50">
-<!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Erick+Eden+Acevedo+Cota;Software+developer;everything+starts;with+an+idea;Hello+world&font=Fira%20Code&center=true&width=380&height=50"> -->
+<!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Erick+Eden+Acevedo+Cota;Software+developer;everything+starts;with+an+idea;Hello+world&font=Fira%30Code&center=true&width=380&height=50"> -->
 
-</h1>
+<!-- </h1> -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira&size=30&color=7E7DF7&center=true&lines=Erick+Eden+Acevedo+Cota;Software+developer;everything+starts;with+an+idea;Hello+world)](https://git.io/typing-svg)
 
 <!-- <h1 align="center">Erick Acevedo</h1> -->
 <!-- <h3 align="center">Software Developer</h3> -->
