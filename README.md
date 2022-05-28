@@ -58,14 +58,8 @@
 
 <!-- graphs -->
 <a  href=https://github.com/edenac>
-<img src="https://github-readme-stats.vercel.app/api?username=edenac&show_icons=true&locale=en&theme=tokyonight" width="59%" height="13%" style="max-width: 100%;"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edenac&theme=tokyonight" width="40%" height="13%" style="max-width: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=edenac&show_icons=true&locale=en&theme=tokyonight" width="59%" height="13%" style="max-width: 100%;"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edenac&theme=tokyonight&utcOffset=-5" width="40%" height="13%" style="max-width: 100%;"/>
 </a>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edenac&theme=tokyonight" width="100%"/></p>
-
-<a  href="https://github.com/edenac">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="40%">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
-    <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
-</a>
