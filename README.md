@@ -44,7 +44,7 @@
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp?cid=ecf05e475elmqfjxg6m0wt0e0ak7f5wbe72sk4tzj80rdbr8&rid=200.webp&ct=s" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp?cid=ecf05e47g904qivmaa415dg9f27udqp2kbbnrpjrigzwtffc&rid=200w.webp&ct=s" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="30" src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp?cid=ecf05e47g904qivmaa415dg9f27udqp2kbbnrpjrigzwtffc&rid=200w.webp&ct=s" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
