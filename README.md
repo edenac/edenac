@@ -1,7 +1,7 @@
 <!-- presentation -->
 <h1 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=fira&size=30&color=7E7DF7&center=true&lines=Erick+Eden+Acevedo+Cota;Software+developer;everything+starts;with+an+idea;Hello+world"> 
+<img src="https://readme-typing-svg.herokuapp.com?font=fira&size=30&color=7E7DF7&center=true&lines=Erick+Eden+Acevedo+Cota;Software+developer;everything+starts;with+an+idea;Hello+world" alt="edenac"> 
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?lines=Erick+Eden+Acevedo+Cota;Software+developer;everything+starts;with+an+idea;Hello+world&font=Fira%30Code&center=true&width=380&height=50"> -->
 
 </h1>
@@ -12,12 +12,12 @@
 <!-- <h3 align="center">Software Developer</h3> -->
 
 <!-- Views, truphy's and talking -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=edenac&label=Profile%20views&color=0e75b6&style=flat" alt="edenac" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edenac&no-frame=true&theme=juicyfresh&no-bg=true" alt="edenac"/></a> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=edenac&label=Profile%20views&color=0e75b6&style=flat" alt="edenac" /> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=edenac&no-frame=true&theme=juicyfresh&no-bg=true" alt="edenac"/></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edenac&&theme=tokyonight" alt="edenac" /></p>
 
 <h2 align="center">Hi
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="edenac" >
 </h2>
 
 - 🌱 I’m currently learning **i never stop to study**
@@ -32,7 +32,7 @@
 
 <h3 align="right">Connect with me:</h3>
 <p align="right">
-<a href="https://linkedin.com/in/devedenac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devedenac" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devedenac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devedenac" height="30" width="40" target="blank"/></a>
 </p>
 
 ### Languages and Tools:
@@ -63,4 +63,4 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edenac&theme=tokyonight&utcOffset=-5" width="42%" style="max-width: 100%;"/>
 </a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edenac&theme=tokyonight" width="100%"/></p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edenac&theme=tokyonight" width="100%" alt="edenac"/></p>
