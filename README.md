@@ -57,12 +57,10 @@
 ---
 
 <!-- graphs -->
-<div align="center" >
 <a  href=https://github.com/edenac>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edenac&theme=tokyonight" width="35%"/></p>
 <img src="https://github-readme-stats.vercel.app/api?username=edenac&show_icons=true&locale=en&theme=tokyonight" width="65%"/></p>
 </a>
-</div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edenac&theme=tokyonight"/></p>
 
@@ -73,4 +71,3 @@
     <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
     <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 </a>
-<details>
