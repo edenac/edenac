@@ -57,7 +57,7 @@
 ---
 
 <!-- graphs -->
-<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=edenac&show_icons=true&locale=en&theme=tokyonight" alt="edenac"/><img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edenac&theme=tokyonight" alt="edenac"/></p>
+<p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=edenac&show_icons=true&locale=en&theme=tokyonight" alt="edenac"/><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edenac&theme=tokyonight" alt="edenac"/></p>
 <!-- <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edenac&theme=tokyonight" alt="edenac"/></p> -->
-<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edenac&theme=tokyonight" alt="edenac"/></p>
+<p align="center"><img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edenac&theme=tokyonight" alt="edenac"/></p>
 
