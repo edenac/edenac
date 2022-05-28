@@ -44,8 +44,8 @@
 
 ### Languages and Tools:
 <img align="left" width="26px" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp?cid=ecf05e475elmqfjxg6m0wt0e0ak7f5wbe72sk4tzj80rdbr8&rid=200.webp&ct=s" style="padding-right:0px;" />
-<img align="left" alt="HTML5" width="30" src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp?cid=ecf05e47g904qivmaa415dg9f27udqp2kbbnrpjrigzwtffc&rid=200w.webp&ct=s" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://media2.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp?cid=ecf05e47coawsoiz3tx9gykqcmejulxwnqvwof4fz2541laf&rid=200w.webp&ct=s" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="35" src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp?cid=ecf05e47g904qivmaa415dg9f27udqp2kbbnrpjrigzwtffc&rid=200w.webp&ct=s" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="35px" src="https://media2.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp?cid=ecf05e47coawsoiz3tx9gykqcmejulxwnqvwof4fz2541laf&rid=200w.webp&ct=s" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
