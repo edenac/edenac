@@ -20,7 +20,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="edenac" >
 </h2>
 
-<div style="width:100%;height:0;padding-bottom:154%;position:relative;"><iframe src="https://giphy.com/embed/gFK6scW91lwIA6vRXD" width="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kewgardens-botanic-kew-gardens-gFK6scW91lwIA6vRXD">via GIPHY</a></p>
+<img src="https://giphy.com/embed/gFK6scW91lwIA6vRXD" width="30"/>
 
 - 🌱 I’m currently learning **i never stop to study**
 
