@@ -20,9 +20,29 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="edenac" >
 </h2>
 
-<img src="https://media3.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif?cid=790b7611419b1845479d7f1af4517c9fd837f1c227876f81&rid=giphy.gif&ct=s" width="40"/>
 
-- 🌱 I’m currently learning **i never stop to study**
+
+<ul>
+   <li>
+   <p><img src="https://media3.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif?cid=790b7611419b1845479d7f1af4517c9fd837f1c227876f81&rid=giphy.gif&ct=s" width="20"/>I'm currently learning<b>i never stop to study</b></p>
+   </li>
+   <li>Carmen</li>
+   <li>Ignacio</li>
+   <li>Elena</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+<!-- <p><img src="https://media3.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif?cid=790b7611419b1845479d7f1af4517c9fd837f1c227876f81&rid=giphy.gif&ct=s" width="20"/>I'm currently learning<b>i never stop to study</b></p> -->
+
+<!-- - 🌱 I’m currently learning **i never stop to study** -->
 
 - 💬 Ask me about **any doubt that you have**
 
