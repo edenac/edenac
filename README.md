@@ -59,7 +59,7 @@
 <!-- graphs -->
 <a  href=https://github.com/edenac>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edenac&theme=tokyonight" width="35%"/></p>
-<img src="https://github-readme-stats.vercel.app/api?username=edenac&show_icons=true&locale=en&theme=tokyonight" width="65%"/></p>
+<img src="https://github-readme-stats.vercel.app/api?username=edenac&show_icons=true&locale=en&theme=tokyonight" width="50%" height="10%"/></p>
 </a>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edenac&theme=tokyonight"/></p>
