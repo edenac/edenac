@@ -58,8 +58,8 @@
 
 <!-- graphs -->
 <a  href=https://github.com/edenac>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edenac&theme=tokyonight" width="35%" height="10%" style="max-width: 100%;"/></p>
-    <img src="https://github-readme-stats.vercel.app/api?username=edenac&show_icons=true&locale=en&theme=tokyonight" width="35%" height="10%" style="max-width: 100%;"/></p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edenac&theme=tokyonight" width="35%" height="10%" style="max-width: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=edenac&show_icons=true&locale=en&theme=tokyonight" width="35%" height="10%" style="max-width: 100%;"/>
 </a>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edenac&theme=tokyonight"/></p>
