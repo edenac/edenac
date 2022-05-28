@@ -20,7 +20,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="edenac" >
 </h2>
 
-<img src="https://giphy.com/embed/gFK6scW91lwIA6vRXD" width="70"/>
+<img src="https://media3.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif?cid=790b7611419b1845479d7f1af4517c9fd837f1c227876f81&rid=giphy.gif&ct=s" width="40"/>
 
 - 🌱 I’m currently learning **i never stop to study**
 
