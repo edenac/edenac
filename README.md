@@ -60,7 +60,7 @@
 <a  href=https://github.com/edenac>
     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/edenac?cardType=github&theme=tokyonight&Border=DDDDDD00" width="56%" style="max-width: 100%;">
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=edenac&show_icons=true&locale=en&theme=tokyonight" width="59%" height="13%" style="max-width: 100%;"/> -->
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edenac&theme=tokyonight&utcOffset=-5" width="43%" style="max-width: 100%;"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edenac&theme=tokyonight&utcOffset=-5" width="42%" style="max-width: 100%;"/>
 </a>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edenac&theme=tokyonight" width="100%"/></p>
