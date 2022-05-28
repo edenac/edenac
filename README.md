@@ -20,6 +20,15 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="edenac" >
 </h2>
 
+<script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+<lord-icon
+    src="https://cdn.lordicon.com/gqqykmqo.json"
+    trigger="loop"
+    colors="outline:#121331,primary:#646e78,secondary:#ad6836,tertiary:#4faef9,quaternary:#f3c3ba"
+    scale="15"
+    style="width:250px;height:250px">
+ </lord-icon>
+
 - 🌱 I’m currently learning **i never stop to study**
 
 - 💬 Ask me about **any doubt that you have**
