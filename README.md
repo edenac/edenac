@@ -59,4 +59,7 @@
 <!-- graphs -->
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edenac&show_icons=true&locale=en&theme=tokyonight" alt="edenac" /></p>
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=edenac&&theme=rogue)](https://github.com/edenac)
+
+<p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edenac&theme=tokyonight" alt="edenac"/></p>
+
+<!-- [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=edenac&&theme=rogue)](https://github.com/edenac) -->
