@@ -43,6 +43,7 @@
 </p>
 
 ### Languages and Tools:
+<div>
 <img align="left" width="26px" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp?cid=ecf05e475elmqfjxg6m0wt0e0ak7f5wbe72sk4tzj80rdbr8&rid=200.webp&ct=s" style="padding-right:0px;"/>
 <img align="left" width="26px" src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp?cid=ecf05e47g904qivmaa415dg9f27udqp2kbbnrpjrigzwtffc&rid=200w.webp&ct=s"/>
 <img align="left" width="26px" src="https://media2.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp?cid=ecf05e47coawsoiz3tx9gykqcmejulxwnqvwof4fz2541laf&rid=200w.webp&ct=s" style="padding-right:10px;"/>
@@ -55,6 +56,7 @@
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" width="25px" src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e4706040tajmsrtskfzd889w850aykzn5guud6cnqmu&rid=giphy.gif&ct=s"/>
+</div>
 
 <br />
 <br />
