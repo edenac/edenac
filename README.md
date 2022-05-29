@@ -20,20 +20,22 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="edenac" >
 </h2>
 
-<ul>
-   <li>
-   <p><img src="https://media3.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif?cid=790b7611419b1845479d7f1af4517c9fd837f1c227876f81&rid=giphy.gif&ct=s" width="30"/> I'm currently learning <b> i never stop to study</b></p>
-   </li>
-   <li>
-   <p><img src="https://media0.giphy.com/media/ZZlBFhr20gCDREWyl0/giphy.gif?cid=ecf05e47zliotmk2zan37vp1xtzih6mtivsxozkw7jsvh4zu&rid=giphy.gif&ct=s" width="30"/> Ask me about <b> any doubt that you have</b></p>
-   </li>
-   <li>
-   <p><img src="https://media0.giphy.com/media/iPRtIf0OlGlSnNfV7W/giphy.gif?cid=790b761134e832af460224e9755ce5ce7afa79ea244482f8&rid=giphy.gif&ct=s" width="30"/> How to reach me <b> edenac.dev@gmail.com</b></p>
-   </li>
-   <li>
-   <p><img src="https://media0.giphy.com/media/RUsWo4YMhZk1ouj9H1/giphy.gif?cid=790b7611c95293f6c5fb927bcde353ec8fa18ca80128e885&rid=giphy.gif&ct=s" width="30"/> Hobbie <b> i like to play chess</b></p>
-   </li>
-</ul>
+<script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
+<lord-icon
+    src="https://cdn.lordicon.com/gqqykmqo.json"
+    trigger="loop"
+    colors="outline:#121331,primary:#646e78,secondary:#ad6836,tertiary:#4faef9,quaternary:#f3c3ba"
+    scale="15"
+    style="width:250px;height:250px">
+ </lord-icon>
+
+- 🌱 I’m currently learning **i never stop to study**
+
+- 💬 Ask me about **any doubt that you have**
+
+- 📫 How to reach me **edenac.dev@gmail.com**
+
+- ⚡Hobbie **i like to play chess**
 
 <!-- Connect with me, Languages and Tools -->
 
@@ -43,19 +45,18 @@
 </p>
 
 ### Languages and Tools:
-
-<img align="left" width="26px" src="https://media0.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp?cid=ecf05e475elmqfjxg6m0wt0e0ak7f5wbe72sk4tzj80rdbr8&rid=200.webp&ct=s" style="padding-right:0px;"/>
-<img align="left" width="26px" src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp?cid=ecf05e47g904qivmaa415dg9f27udqp2kbbnrpjrigzwtffc&rid=200w.webp&ct=s"/>
-<img align="left" width="26px" src="https://media2.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp?cid=ecf05e47coawsoiz3tx9gykqcmejulxwnqvwof4fz2541laf&rid=200w.webp&ct=s" style="padding-right:10px;"/>
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=ecf05e47hk1o52o3j6zwwehn2boctzseydfc5ryg565ugoj7&rid=giphy.gif&ct=s" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<!-- <img align="left" width="25px" src="https://media4.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e4706040tajmsrtskfzd889w850aykzn5guud6cnqmu&rid=giphy.gif&ct=s"/> GIF JS da salto de linea sin querer-->
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 
 <br />
 <br />
