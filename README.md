@@ -47,7 +47,7 @@
 <img align="left" width="26px" src="https://media2.giphy.com/media/XAxylRMCdpbEWUAvr8/200w.webp?cid=ecf05e47g904qivmaa415dg9f27udqp2kbbnrpjrigzwtffc&rid=200w.webp&ct=s"/>
 <img align="left" width="26px" src="https://media2.giphy.com/media/fsEaZldNC8A1PJ3mwp/200w.webp?cid=ecf05e47coawsoiz3tx9gykqcmejulxwnqvwof4fz2541laf&rid=200w.webp&ct=s" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" width="25px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e474imee2bo0iavwqjxywsku4rrydjwfq49c2i9c8s6&rid=giphy.gif&ct=s" style="padding-right:8px;" />
+<p> <img align="left" width="25px" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=ecf05e474imee2bo0iavwqjxywsku4rrydjwfq49c2i9c8s6&rid=giphy.gif&ct=s" style="padding-right:8px;" /> </p>
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
