@@ -20,22 +20,20 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="edenac" >
 </h2>
 
-<script src="https://cdn.lordicon.com/xdjxvujz.js"></script>
-<lord-icon
-    src="https://cdn.lordicon.com/gqqykmqo.json"
-    trigger="loop"
-    colors="outline:#121331,primary:#646e78,secondary:#ad6836,tertiary:#4faef9,quaternary:#f3c3ba"
-    scale="15"
-    style="width:250px;height:250px">
- </lord-icon>
-
-- 🌱 I’m currently learning **i never stop to study**
-
-- 💬 Ask me about **any doubt that you have**
-
-- 📫 How to reach me **edenac.dev@gmail.com**
-
-- ⚡Hobbie **i like to play chess**
+<ul>
+   <li>
+   <p><img src="https://media3.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif?cid=790b7611419b1845479d7f1af4517c9fd837f1c227876f81&rid=giphy.gif&ct=s" width="30"/> I'm currently learning <b> i never stop to study</b></p>
+   </li>
+   <li>
+   <p><img src="https://media0.giphy.com/media/ZZlBFhr20gCDREWyl0/giphy.gif?cid=ecf05e47zliotmk2zan37vp1xtzih6mtivsxozkw7jsvh4zu&rid=giphy.gif&ct=s" width="30"/> Ask me about <b> any doubt that you have</b></p>
+   </li>
+   <li>
+   <p><img src="https://media0.giphy.com/media/iPRtIf0OlGlSnNfV7W/giphy.gif?cid=790b761134e832af460224e9755ce5ce7afa79ea244482f8&rid=giphy.gif&ct=s" width="30"/> How to reach me <b> edenac.dev@gmail.com</b></p>
+   </li>
+   <li>
+   <p><img src="https://media0.giphy.com/media/RUsWo4YMhZk1ouj9H1/giphy.gif?cid=790b7611c95293f6c5fb927bcde353ec8fa18ca80128e885&rid=giphy.gif&ct=s" width="30"/> Hobbie <b> i like to play chess</b></p>
+   </li>
+</ul>
 
 <!-- Connect with me, Languages and Tools -->
 
