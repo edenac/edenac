@@ -60,7 +60,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://en.m.wikipedia.org/wiki/File:Vimlogo.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png" style="padding-right:10px;" />
 
 <br />
 <br />
