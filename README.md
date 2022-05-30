@@ -43,7 +43,7 @@
 </p>
 
 ### Languages and Tools:
-<div>
+<p>
 <img align="left" alt="Windows" width="26px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653886239~hmac=0b4c5de85a966a5cd4492fbe276dabd0" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png" style="padding-right:10px;" />
 <img align="left" alt="mac" width="26px" src="https://cdn-icons.flaticon.com/png/512/2175/premium/2175370.png?token=exp=1653887858~hmac=67aa3994aa42ac51a7eef49bd0ce77d8" style="padding-right:10px;" />
@@ -62,7 +62,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-</div>
+</p>
 <div>
 <!-- arreglando las posiciones de los stickers -->
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
