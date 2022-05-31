@@ -56,7 +56,7 @@
 <br />
 <br />
 <!-- graph -->
-<p width="100%" align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edenac&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="edenac" /></p>
+<img style="padding-top: 10;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edenac&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="edenac" />
 
 ---
 
