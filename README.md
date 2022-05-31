@@ -20,7 +20,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="edenac" >
 </h2>
 
-<p align="left">
+<div style="display: flex;">
   <ul>
    <li>
    <p align="left"><img src="https://media3.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif?cid=790b7611419b1845479d7f1af4517c9fd837f1c227876f81&rid=giphy.gif&ct=s" width="30"/> I'm currently learning <b> i never stop to study</b></p>
@@ -35,7 +35,7 @@
    <p><img src="https://media0.giphy.com/media/RUsWo4YMhZk1ouj9H1/giphy.gif?cid=790b7611c95293f6c5fb927bcde353ec8fa18ca80128e885&rid=giphy.gif&ct=s" width="30"/> Hobbie <b> i like to play chess</b></p>
    </li>
   </ul>
-</p>
+</div>
 <!-- Connect with me, Languages and Tools -->
   <h3 align="right">Connect with me:</h3>
   <p align="right">
