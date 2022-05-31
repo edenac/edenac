@@ -48,11 +48,11 @@
 
 ### Languages and Tools:
    <img align="left" alt="Windows" width="3%" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653972889~hmac=66e98cefefb659fcef444cd3f1e9e198" />
-   <img align="left" alt="Linux" width="3%" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/>
-   <img align="left" alt="mac" width="3%" src="https://cdn-icons-png.flaticon.com/512/2/2235.png"/>
-   <img align="left" alt="Visual Studio Code" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-   <img align="left" alt="Vim" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"/>
-   <img align="left" alt="Eclipse" width="3%" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png"/>
+   <img alt="Linux" width="3%" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/>
+   <img alt="mac" width="3%" src="https://cdn-icons-png.flaticon.com/512/2/2235.png"/>
+   <img alt="Visual Studio Code" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+   <img alt="Vim" width="3%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"/>
+   <img alt="Eclipse" width="3%" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png"/>
    <img align="left" alt="JetBrains" width="3%" src="https://plugins.jetbrains.com/static/versions/21673/jetbrains-simple.svg"/>
    <img align="left" alt="Git" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
    <img align="left" alt="GitHub" width="3%" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
