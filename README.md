@@ -57,6 +57,8 @@
    <a rel="noreferrer"> <img align="left" alt="Node.js" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="MongoDB" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="kotlin" width="26px"  height="26px" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"/></a>
+   <a rel="noreferrer"> <img align="left" alt="go" width="26px"  height="26px" src="https://codemonkeyjunior.files.wordpress.com/2021/06/1yh90bw8jl4f8potztvbzqw.png"/></a>
+   <a rel="noreferrer"> <img align="left" alt="R" width="26px"  height="26px" src="https://cdn-icons-png.flaticon.com/512/100/100514.png"/></a>
 </p>
 
 <br />
