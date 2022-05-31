@@ -25,7 +25,6 @@
 </p>
 
 <!-- language and tools -->
-<div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a rel="noreferrer"> <img align="left" alt="Windows" width="26px" height="26px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653972889~hmac=66e98cefefb659fcef444cd3f1e9e198" /> </a>
@@ -53,11 +52,11 @@
    <a rel="noreferrer"> <img align="left" alt="Node.js" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="MongoDB" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
 </p>
-</div>
+
 <br />
 <br />
 <!-- graph -->
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edenac&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="edenac" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edenac&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="edenac" />
 
 ---
 
