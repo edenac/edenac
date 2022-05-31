@@ -43,24 +43,26 @@
 </p>
 
 ### Languages and Tools:
-<img align="left" alt="Windows" width="26px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653886239~hmac=0b4c5de85a966a5cd4492fbe276dabd0" />
-<img align="left" alt="Linux" width="26px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/>
-<img align="left" alt="mac" width="26px" src="https://cdn-icons.flaticon.com/png/512/2175/premium/2175370.png?token=exp=1653887858~hmac=67aa3994aa42ac51a7eef49bd0ce77d8"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"/>
-<img align="left" alt="Eclipse" width="26px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png"/>
-<img align="left" alt="JetBrains" width="26px" src="https://plugins.jetbrains.com/static/versions/21673/jetbrains-simple.svg"/>
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
-<img align="left" alt="Java" width="26px" src="https://cdn-icons.flaticon.com/png/512/5433/premium/5433712.png?token=exp=1653888235~hmac=8dd17e40a160ae0c08535585e15c6dd4"/>
-<img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
-<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/>
-<img align="left" alt="PHP" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"/>
-<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+<div>
+   <img align="left" alt="Windows" width="26px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653886239~hmac=0b4c5de85a966a5cd4492fbe276dabd0" />
+   <img align="left" alt="Linux" width="26px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/>
+   <img align="left" alt="mac" width="26px" src="https://cdn-icons.flaticon.com/png/512/2175/premium/2175370.png?token=exp=1653887858~hmac=67aa3994aa42ac51a7eef49bd0ce77d8"/>
+   <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+   <img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"/>
+   <img align="left" alt="Eclipse" width="26px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png"/>
+   <img align="left" alt="JetBrains" width="26px" src="https://plugins.jetbrains.com/static/versions/21673/jetbrains-simple.svg"/>
+   <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+   <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
+   <img align="left" alt="Java" width="26px" src="https://cdn-icons.flaticon.com/png/512/5433/premium/5433712.png?token=exp=1653888235~hmac=8dd17e40a160ae0c08535585e15c6dd4"/>
+   <img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
+   <img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/>
+   <img align="left" alt="PHP" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"/>
+   <img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/>
+   <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+   <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+   <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+   <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
+</div>
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Oracle" width="35px" src="https://cdn-icons-png.flaticon.com/512/5969/5969170.png"/>
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
