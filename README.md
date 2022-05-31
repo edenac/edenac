@@ -52,7 +52,7 @@
    <a rel="noreferrer"> <img align="left" alt="npm" width="26px"  height="26px" src="https://www.pngrepo.com/png/354126/512/npm-icon.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="React" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="vue" width="26px"  height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"/></a>
-   <a rel="noreferrer"> <img align="left" alt="angular" width="26px"  height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.pnh"/></a>
+   <a rel="noreferrer"> <img align="left" alt="angular" width="26px"  height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="GraphQL" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="Node.js" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="MongoDB" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
