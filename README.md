@@ -59,6 +59,10 @@
    <a rel="noreferrer"> <img align="left" alt="kotlin" width="26px"  height="26px" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="go" width="26px"  height="26px" src="https://codemonkeyjunior.files.wordpress.com/2021/06/1yh90bw8jl4f8potztvbzqw.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="R" width="26px"  height="26px" src="https://cdn-icons-png.flaticon.com/512/100/100514.png"/></a>
+   <a rel="noreferrer"> <img align="left" alt="aws" width="26px"  height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"/></a>
+   <a rel="noreferrer"> <img align="left" alt="flutter" width="26px"  height="26px" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg"/></a>
+   <a rel="noreferrer"> <img align="left" alt="ionic" width="26px"  height="26px" src="https://ionicframework.com/img/meta/logo.png"/></a>
+   <a rel="noreferrer"> <img align="left" alt="ionic" width="26px"  height="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/xamarin-logo-vector.svg"/></a>
 </p>
 
 <br />
