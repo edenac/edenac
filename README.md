@@ -54,12 +54,12 @@
 <img alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
 <img alt="Java" width="26px" src="https://cdn-icons.flaticon.com/png/512/5433/premium/5433712.png?token=exp=1653888235~hmac=8dd17e40a160ae0c08535585e15c6dd4"/>
 <img alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/>
-<img alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/>
-<img alt="PHP" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"/>
-<img alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/>
-<img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="C#" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/>
+<img align="left" alt="PHP" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"/>
+<img align="left" alt="Python" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/>
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
 
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
