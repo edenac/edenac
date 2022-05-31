@@ -37,15 +37,12 @@
 
 <!-- Connect with me, Languages and Tools -->
 
-<h3 align="right">Connect with me:</h3>
-<p align="right">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/devedenac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devedenac" height="30" width="40" target="blank"/></a>
 </p>
 
-<!-- ### Languages and Tools: -->
-
-<dl>
-  <dt>
+### Languages and Tools:
    <img align="left" alt="Windows" width="3%" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653972889~hmac=66e98cefefb659fcef444cd3f1e9e198" />
    <img align="left" alt="Linux" width="3%" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/>
    <img align="left" alt="mac" width="3%" src="https://cdn-icons-png.flaticon.com/512/2/2235.png"/>
@@ -70,8 +67,6 @@
    <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
    <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
    <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  </dt>
-</dl>
 <br />
 <br />
 
