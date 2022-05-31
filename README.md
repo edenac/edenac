@@ -51,9 +51,12 @@
    <a rel="noreferrer"> <img align="left" alt="Oracle" width="26px"  height="26px" src="https://cdn-icons-png.flaticon.com/512/5969/5969170.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="npm" width="26px"  height="26px" src="https://www.pngrepo.com/png/354126/512/npm-icon.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="React" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+   <a rel="noreferrer"> <img align="left" alt="vue" width="26px"  height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"/></a>
+   <a rel="noreferrer"> <img align="left" alt="angular" width="26px"  height="26px" src="https://metricsalad.com/wp-content/uploads/2015/10/angularjs-logo.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="GraphQL" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="Node.js" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="MongoDB" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
+   <a rel="noreferrer"> <img align="left" alt="MongoDB" width="26px"  height="26px" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"/></a>
 </p>
 
 <br />
