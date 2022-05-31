@@ -27,7 +27,7 @@
 <!-- language and tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-   <a rel="noreferrer"> <img align="left" vspace="10px" alt="Windows" width="26px" height="26px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653972889~hmac=66e98cefefb659fcef444cd3f1e9e198" /> </a>
+   <a rel="noreferrer"> <img align="left" alt="Windows" width="26px" height="26px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653972889~hmac=66e98cefefb659fcef444cd3f1e9e198" /> </a>
    <a rel="noreferrer"> <img align="left" alt="Linux" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/> </a>
    <a rel="noreferrer"> <img align="left" alt="mac" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/2/2235.png"/> </a>
    <a rel="noreferrer"> <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </a>
@@ -36,6 +36,9 @@
    <a rel="noreferrer"> <img align="left" alt="JetBrains" width="26px" height="26px" src="https://plugins.jetbrains.com/static/versions/21673/jetbrains-simple.svg"/> </a>
    <a rel="noreferrer"> <img align="left" alt="Git" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </a>
    <a rel="noreferrer"> <img align="left" alt="GitHub" width="26px" height="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/> </a>
+   <a rel="noreferrer"> <img align="left" alt="figma" width="26px" height="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> </a>
+   <a rel="noreferrer"> <img align="left" alt="photoshop" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/> </a>
+
    <a rel="noreferrer"> <img align="left" alt="Java" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="C++" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="C#" width="26px"  height="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/></a>
@@ -50,7 +53,7 @@
    <a rel="noreferrer"> <img align="left" alt="React" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="GraphQL" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="Node.js" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
-   <a rel="noreferrer"> <img align="left" vspace="100" alt="MongoDB" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
+   <a rel="noreferrer"> <img align="left" alt="MongoDB" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
 </p>
 
 <br />
