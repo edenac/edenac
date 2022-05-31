@@ -18,10 +18,10 @@
 <p align="center"><img src="https://media0.giphy.com/media/RUsWo4YMhZk1ouj9H1/giphy.gif?cid=790b7611c95293f6c5fb927bcde353ec8fa18ca80128e885&rid=giphy.gif&ct=s" width="30"/> Hobbie: <b> i like to play chess</b></p>
 
 <!-- Connect with me, Languages and Tools -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://linkedin.com/in/devedenac" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devedenac" height="30" width="40"/></a>
-  </p>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
