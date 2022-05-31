@@ -21,7 +21,7 @@
 </h2>
 
 <ul align="right" >
-   <li>
+   <li align="right">
    <p><img src="https://media3.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif?cid=790b7611419b1845479d7f1af4517c9fd837f1c227876f81&rid=giphy.gif&ct=s" width="30"/> I'm currently learning <b> i never stop to study</b></p>
    </li>
    <li>
