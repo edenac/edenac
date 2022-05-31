@@ -35,12 +35,12 @@
    <p><img src="https://media0.giphy.com/media/RUsWo4YMhZk1ouj9H1/giphy.gif?cid=790b7611c95293f6c5fb927bcde353ec8fa18ca80128e885&rid=giphy.gif&ct=s" width="30"/> Hobbie <b> i like to play chess</b></p>
    </li>
   </ul>
-</div>
 <!-- Connect with me, Languages and Tools -->
   <h3 align="right">Connect with me:</h3>
   <p align="right">
   <a href="https://linkedin.com/in/devedenac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devedenac" height="30" width="40" target="blank"/></a>
   </p>
+</div>
 
 ### Languages and Tools:
    <img align="left" alt="Windows" width="3%" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653972889~hmac=66e98cefefb659fcef444cd3f1e9e198" />
