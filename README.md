@@ -20,7 +20,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="edenac" >
 </h2>
 
-<div style="flex-direction: row;">
+<div style="display: flex; flex-direction: row;">
  <div width="50%">
   <ul>
    <li>
