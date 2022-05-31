@@ -43,8 +43,8 @@
 </p>
 
 ### Languages and Tools:
-<p>
-   <img align="left" alt="Windows" width="26%" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653972889~hmac=66e98cefefb659fcef444cd3f1e9e198" />
+<div>
+   <img align="left" alt="Windows" width="5%" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653972889~hmac=66e98cefefb659fcef444cd3f1e9e198" />
    <img align="left" alt="Linux" width="26px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/>
    <img align="left" alt="mac" width="26px" src="https://cdn-icons-png.flaticon.com/512/2/2235.png"/>
    <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
@@ -62,7 +62,7 @@
    <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
    <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
    <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-</p>
+</div>
    <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
    <img align="left" alt="Oracle" width="35px" src="https://cdn-icons-png.flaticon.com/512/5969/5969170.png"/>
    <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
