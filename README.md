@@ -43,7 +43,7 @@
 </p>
 
 ### Languages and Tools:
-<div>
+<div align="left">
    <img align="left" alt="Windows" width="26px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653972889~hmac=66e98cefefb659fcef444cd3f1e9e198" />
    <img align="left" alt="Linux" width="26px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/>
    <img align="left" alt="mac" width="26px" src="https://cdn-icons-png.flaticon.com/512/2/2235.png"/>
@@ -64,7 +64,7 @@
    <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
 </div>
 <br />
-<div>
+<div align="left">
    <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
    <img align="left" alt="Oracle" width="35px" src="https://cdn-icons-png.flaticon.com/512/5969/5969170.png"/>
    <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
