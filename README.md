@@ -42,7 +42,7 @@
 <a href="https://linkedin.com/in/devedenac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devedenac" height="30" width="40" target="blank"/></a>
 </p>
 
-### Languages and Tools:
+<!-- ### Languages and Tools: -->
 
 <dl>
   <dt>
@@ -64,8 +64,6 @@
    <img align="left" alt="HTML5" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
    <img align="left" alt="CSS3" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
    <img align="left" alt="Sass" width="3%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-  </dt>
-  <dt>
    <img align="left" alt="MySQL" width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
    <img align="left" alt="Oracle" width="35px" src="https://cdn-icons-png.flaticon.com/512/5969/5969170.png"/>
    <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
