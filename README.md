@@ -53,8 +53,8 @@
    <a rel="noreferrer"> <img align="left" alt="MongoDB" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
 </p>
 
-<br />
-<br />
+<p></p>
+<p></p>
 <!-- graph -->
 <img style="padding-top: 10;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edenac&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="edenac" />
 
