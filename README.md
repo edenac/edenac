@@ -47,8 +47,8 @@
 <img alt="Linux" width="26px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/>
 <img alt="mac" width="26px" src="https://cdn-icons.flaticon.com/png/512/2175/premium/2175370.png?token=exp=1653887858~hmac=67aa3994aa42ac51a7eef49bd0ce77d8"/>
 <img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"/>
-<img alt="Eclipse" width="26px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png"/>
+<img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"/>
+<img align="left" alt="Eclipse" width="26px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png"/>
 <img align="left" alt="JetBrains" width="26px" src="https://plugins.jetbrains.com/static/versions/21673/jetbrains-simple.svg"/>
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/>
