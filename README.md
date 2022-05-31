@@ -43,10 +43,10 @@
 </p>
 
 ### Languages and Tools:
-<img alt="Windows" width="26px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653886239~hmac=0b4c5de85a966a5cd4492fbe276dabd0" />
-<img alt="Linux" width="26px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/>
-<img alt="mac" width="26px" src="https://cdn-icons.flaticon.com/png/512/2175/premium/2175370.png?token=exp=1653887858~hmac=67aa3994aa42ac51a7eef49bd0ce77d8"/>
-<img alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="Windows" width="26px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653886239~hmac=0b4c5de85a966a5cd4492fbe276dabd0" />
+<img align="left" alt="Linux" width="26px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/>
+<img align="left" alt="mac" width="26px" src="https://cdn-icons.flaticon.com/png/512/2175/premium/2175370.png?token=exp=1653887858~hmac=67aa3994aa42ac51a7eef49bd0ce77d8"/>
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"/>
 <img align="left" alt="Eclipse" width="26px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png"/>
 <img align="left" alt="JetBrains" width="26px" src="https://plugins.jetbrains.com/static/versions/21673/jetbrains-simple.svg"/>
@@ -61,13 +61,12 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
-
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="Oracle" width="35px" src="https://cdn-icons-png.flaticon.com/512/5969/5969170.png"/>
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/>
-<img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 
 <br />
 <br />
