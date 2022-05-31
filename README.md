@@ -24,7 +24,7 @@
 </div>
 </div>
 
-### Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a rel="noreferrer"> <img align="left" alt="Windows" width="26px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653972889~hmac=66e98cefefb659fcef444cd3f1e9e198" /> </a>
    <a rel="noreferrer"> <img align="left" alt="Linux" width="26px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/> </a>
