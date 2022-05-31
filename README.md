@@ -27,7 +27,7 @@
 <!-- language and tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-   <a rel="noreferrer"> <img align="left" alt="Windows" width="26px" height="26px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653972889~hmac=66e98cefefb659fcef444cd3f1e9e198" /> </a>
+   <a rel="noreferrer"> <img class="mb-4 mr-4 h-6 w-6 sm:h-10 sm:w-10" align="left" alt="Windows" width="26px" height="26px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653972889~hmac=66e98cefefb659fcef444cd3f1e9e198" /> </a>
    <a rel="noreferrer"> <img align="left" alt="Linux" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/> </a>
    <a rel="noreferrer"> <img align="left" alt="mac" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/2/2235.png"/> </a>
    <a rel="noreferrer"> <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </a>
