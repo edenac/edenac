@@ -25,8 +25,9 @@
 </p>
 
 <!-- language and tools -->
+<div>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" width="100%">
+<p align="left">
    <a rel="noreferrer"> <img align="left" alt="Windows" width="26px" height="26px" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504927.png?token=exp=1653972889~hmac=66e98cefefb659fcef444cd3f1e9e198" /> </a>
    <a rel="noreferrer"> <img align="left" alt="Linux" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/> </a>
    <a rel="noreferrer"> <img align="left" alt="mac" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/2/2235.png"/> </a>
@@ -52,7 +53,7 @@
    <a rel="noreferrer"> <img align="left" alt="Node.js" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="MongoDB" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
 </p>
-
+</div>
 <br />
 <br />
 <!-- graph -->
@@ -66,4 +67,5 @@
     <img src="https://github-readme-stats.vercel.app/api?username=edenac&show_icons=true&locale=en&theme=tokyonight" width="56%" height="126px" style="max-width: 100%;"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edenac&theme=tokyonight&utcOffset=-5" width="42%" style="max-width: 100%;"/>
 </a>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edenac&theme=tokyonight" width="100%" alt="edenac"/></p>
