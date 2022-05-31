@@ -21,8 +21,8 @@
 </h2>
 
 <div style="flex-direction:row">
- <div>
-  <ul width="50%">
+ <div width="50%">
+  <ul>
    <li>
    <p><img src="https://media3.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif?cid=790b7611419b1845479d7f1af4517c9fd837f1c227876f81&rid=giphy.gif&ct=s" width="30"/> I'm currently learning <b> i never stop to study</b></p>
    </li>
