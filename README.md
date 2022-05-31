@@ -37,7 +37,7 @@
    </li>
   </ul>
  </div>
- <div>
+ <div width="50%">
 <!-- Connect with me, Languages and Tools -->
   <h3 align="right">Connect with me:</h3>
   <p align="right">
