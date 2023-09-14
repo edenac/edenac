@@ -37,18 +37,11 @@
    <a rel="noreferrer"> <img align="left" alt="Git" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </a>
    <a rel="noreferrer"> <img align="left" alt="GitHub" width="26px" height="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/> </a>
    <a rel="noreferrer"> <img align="left" alt="Java" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/></a>
-   <a rel="noreferrer"> <img align="left" alt="C++" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"/></a>
-   <a rel="noreferrer"> <img align="left" alt="C#" width="26px"  height="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/></a>
-   <a rel="noreferrer"> <img align="left" alt="PHP" width="26px"  height="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="Python" width="26px"  height="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="JavaScript" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="HTML5" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="CSS3" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
-   <a rel="noreferrer"> <img align="left" alt="Sass" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/></a>
-   <a rel="noreferrer"> <img align="left" alt="figma" width="26px" height="26px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"/> </a>
-   <a rel="noreferrer"> <img align="left" alt="photoshop" width="26px" height="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"/> </a>
    <a rel="noreferrer"> <img align="left" alt="MySQL" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
-   <a rel="noreferrer"> <img align="left" alt="Oracle" width="26px"  height="26px" src="https://cdn-icons-png.flaticon.com/512/5969/5969170.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="npm" width="26px"  height="26px" src="https://www.pngrepo.com/png/354126/512/npm-icon.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="React" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="vue" width="26px"  height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"/></a>
@@ -56,13 +49,7 @@
    <a rel="noreferrer"> <img align="left" alt="GraphQL" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="Node.js" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="MongoDB" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
-   <a rel="noreferrer"> <img align="left" alt="kotlin" width="26px"  height="26px" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"/></a>
-   <a rel="noreferrer"> <img align="left" alt="go" width="26px"  height="26px" src="https://codemonkeyjunior.files.wordpress.com/2021/06/1yh90bw8jl4f8potztvbzqw.png"/></a>
-   <a rel="noreferrer"> <img align="left" alt="R" width="26px"  height="26px" src="https://cdn-icons-png.flaticon.com/512/100/100514.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="aws" width="26px"  height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"/></a>
-   <a rel="noreferrer"> <img align="left" alt="flutter" width="26px"  height="26px" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg"/></a>
-   <a rel="noreferrer"> <img align="left" alt="ionic" width="26px"  height="26px" src="https://ionicframework.com/img/meta/logo.png"/></a>
-   <a rel="noreferrer"> <img align="left" alt="ionic" width="26px"  height="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/xamarin-logo-vector.svg"/></a>
 </p>
 
 <br />
