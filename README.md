@@ -27,29 +27,25 @@
 <!-- language and tools -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-   <a rel="noreferrer"> <img align="left" alt="Windows" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/906/906308.png" /> </a>
    <a rel="noreferrer"> <img align="left" alt="Linux" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/> </a>
-   <a rel="noreferrer"> <img align="left" alt="mac" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/2/2235.png"/> </a>
-   <a rel="noreferrer"> <img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </a>
-   <a rel="noreferrer"> <img align="left" alt="Vim" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/544px-Vimlogo.svg.png"/> </a>
-   <a rel="noreferrer"> <img align="left" alt="Eclipse" width="26px" height="26px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png"/> </a>
-   <a rel="noreferrer"> <img align="left" alt="JetBrains" width="26px" height="26px" src="https://plugins.jetbrains.com/static/versions/21673/jetbrains-simple.svg"/> </a>
-   <a rel="noreferrer"> <img align="left" alt="Git" width="26px" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </a>
-   <a rel="noreferrer"> <img align="left" alt="GitHub" width="26px" height="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png"/> </a>
-   <a rel="noreferrer"> <img align="left" alt="Java" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/></a>
-   <a rel="noreferrer"> <img align="left" alt="Python" width="26px"  height="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/></a>
-   <a rel="noreferrer"> <img align="left" alt="JavaScript" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
-   <a rel="noreferrer"> <img align="left" alt="HTML5" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/></a>
-   <a rel="noreferrer"> <img align="left" alt="CSS3" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/></a>
+   <a rel="noreferrer"> <img align="left" alt="SQL" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="MySQL" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
-   <a rel="noreferrer"> <img align="left" alt="npm" width="26px"  height="26px" src="https://www.pngrepo.com/png/354126/512/npm-icon.png"/></a>
-   <a rel="noreferrer"> <img align="left" alt="React" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
-   <a rel="noreferrer"> <img align="left" alt="vue" width="26px"  height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png"/></a>
-   <a rel="noreferrer"> <img align="left" alt="angular" width="26px"  height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"/></a>
-   <a rel="noreferrer"> <img align="left" alt="GraphQL" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg"/></a>
-   <a rel="noreferrer"> <img align="left" alt="Node.js" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
+   <a rel="noreferrer"> <img align="left" alt="postgres" width="26px"  height="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="MongoDB" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
+   <a rel="noreferrer"> <img align="left" alt="Java" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/></a>
+   <a rel="noreferrer"> <img align="left" alt="kotlin" width="26px" height="26px" src="https://download.logo.wine/logo/Kotlin_(programming_language)/Kotlin_(programming_language)-Logo.wine.png"/></a>
+   <a rel="noreferrer"> <img align="left" alt="spring" width="26px" height="26px" src="https://www.svgrepo.com/show/354380/spring-icon.svg"/></a>
+   <a rel="noreferrer"> <img align="left" alt="hibernate" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/hibernate.svg"/></a>
+   <a rel="noreferrer"> <img align="left" alt="Python" width="26px"  height="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/></a>
+   <a rel="noreferrer"> <img align="left" alt="django" width="26px"  height="26px" src="https://gitlab.com/uploads/-/system/project/avatar/31295677/pngwing.com__1_.png"/></a>
+   <a rel="noreferrer"> <img align="left" alt="JavaScript" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></a>
+   <a rel="noreferrer"> <img align="left" alt="Node.js" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/></a>
+   <a rel="noreferrer"> <img align="left" alt="React" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/></a>
+   <a rel="noreferrer"> <img align="left" alt="angular" width="26px"  height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"/></a>
+   <!-- <a rel="noreferrer"> <img align="left" alt="express.js" width="26px"  height="26px" src=""/></a> -->
    <a rel="noreferrer"> <img align="left" alt="aws" width="26px"  height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1024px-Amazon_Web_Services_Logo.svg.png"/></a>
+<a rel="noreferrer"> <img align="left" alt="flutter" width="26px" height="26px" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg"/></a>
+<a rel="noreferrer"> <img align="left" alt="ionic" width="26px" height="26px" src="https://ionicframework.com/img/meta/logo.png"/></a>
 </p>
 
 <br />
