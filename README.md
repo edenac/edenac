@@ -51,7 +51,6 @@
 <br />
 <br />
 <br />
-<br />
 <!-- graph -->
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edenac&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="edenac" /></p>
 
