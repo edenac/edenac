@@ -28,7 +28,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a rel="noreferrer"> <img align="left" alt="Linux" width="26px" height="26px" src="https://cdn-icons-png.flaticon.com/512/518/518713.png"/> </a>
-   <a rel="noreferrer"> <img align="left" alt="SQL" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
+   <a rel="noreferrer"> <img align="left" alt="SQL" width="26px"  height="26px" src="https://cdn-icons-png.flaticon.com/512/3161/3161133.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="MySQL" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/></a>
    <a rel="noreferrer"> <img align="left" alt="postgres" width="26px"  height="26px" src="https://www.postgresql.org/media/img/about/press/elephant.png"/></a>
    <a rel="noreferrer"> <img align="left" alt="MongoDB" width="26px"  height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/></a>
