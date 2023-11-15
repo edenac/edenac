@@ -1,6 +1,6 @@
 <!-- presentation -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=fira&size=30&color=7E7DF7&center=true&lines=Erick+Acevedo;Software+developer;everything+starts;with+an+idea;Hello+world" alt="edenac"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=fira&size=30&color=7E7DF7&center=true&lines=Erick+Acevedo;Software+developer;Hello+world" alt="edenac"> 
 </h1>
 
 <!-- Views, truphy's graphs and hi -->
